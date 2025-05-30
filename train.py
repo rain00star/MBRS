@@ -4,7 +4,6 @@ from network.Network import *
 
 from utils.load_train_setting import *
 import numpy
-import time
 
 '''
 train
